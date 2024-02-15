@@ -14,7 +14,7 @@ The key new things which i learned are:
 - Stucturing web page using **html**
 
 Live-Link for this project
-**[project-1](https://live-class-project-1-siri.netlify.app " Netlify")**
+**[project-1](https://herobannerproject.netlify.app/ " Netlify")**
 
 ___
 
